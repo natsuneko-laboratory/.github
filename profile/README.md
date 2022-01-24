@@ -7,7 +7,7 @@ Payment must be made on a monthly or annual basis on one of the following platfo
 * [GitHub Sponsors](https://github.com/mika-f) - for GitHub Users
 * [Patreon](https://www.patreon.com/natsuneko_vrc) - for General Users
 * [Ko-fi](https://ko-fi.com/natsuneko) - for General Users
-* [pixivFANBOX](https://https://natsuneko.fanbox.cc/) - for Creator Users
+* [pixivFANBOX](https://natsuneko.fanbox.cc/) - for Creator Users
 
 
 # Natsuneko Laboratory
@@ -19,4 +19,4 @@ Natsuneko Laboratory では、生産性の向上を行うためのツールを�
 * [GitHub Sponsors](https://github.com/mika-f) - for GitHub Users
 * [Patreon](https://www.patreon.com/natsuneko_vrc) - for General Users
 * [Ko-fi](https://ko-fi.com/natsunekoe) - for General Users
-* [pixivFANBOX](https://https://natsuneko.fanbox.cc/) - for Creator Users
+* [pixivFANBOX](https://natsuneko.fanbox.cc/) - for Creator Users
