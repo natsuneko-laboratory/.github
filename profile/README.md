@@ -1,22 +1,14 @@
-# Natsuneko Laboratory
 
-Natsuneko Laboratory provides the tools to improve the work efficiency of creators by [Natsuneko](https://twitter.com/6jz).  
-Most of our products are licensed under the CC BY-NC-SA 4.0, so if you want to use them commercially, you need to support them in some way.  
-Payment must be made on a monthly or annual basis on one of the following platforms.
-
-* [GitHub Sponsors](https://github.com/mika-f) - for GitHub Users
-* [Patreon](https://www.patreon.com/natsuneko_vrc) - for General Users
-* [Ko-fi](https://ko-fi.com/natsuneko) - for General Users
-* [pixivFANBOX](https://natsuneko.fanbox.cc/) - for Creator Users
+![](https://user-images.githubusercontent.com/10832834/204466269-8ce5c788-f307-4796-9684-de4778303e66.png)
 
 
-# Natsuneko Laboratory
+## Natsuneko Laboratory
 
-Natsuneko Laboratory では、生産性の向上を行うためのツールを提供しています。  
-多くのプロダクトについて、 CC BY-NC-SA 4.0 ライセンスを採用しており、商用利用を行う場合は何らかの方法で支援を行う必要があります。  
-支払いは以下のプラットフォームのいずれかにて、月単位もしくは年単位での支払いが必要です。
+Natsuneko Laboratory provides the editor extensions, editor analyzers, shaders, web services, and others to improve the work efficiency of creators by [Natsuneko](https://github.com/mika-f).  
+Most of products are available at the [BOOTH](https://natsuneko-vrc.booth.pm/) and GitHub Releases.
 
-* [GitHub Sponsors](https://github.com/mika-f) - for GitHub Users
-* [Patreon](https://www.patreon.com/natsuneko_vrc) - for General Users
-* [Ko-fi](https://ko-fi.com/natsunekoe) - for General Users
-* [pixivFANBOX](https://natsuneko.fanbox.cc/) - for Creator Users
+
+### Are you want to tools to imrpove productivity?
+
+If you have an idea for improving your productivity, but you can not write programs, I help you to implement your idea.  
+Please contact us at the [Twitter](https://twitter.com/6jz) or Discord.
